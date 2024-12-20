@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 神┊Ꭰᴇᴠᴀɴsʜ 」──
+    [ 𝗗𝗘𝗩𝗔𝗡𝗦𝗛 ]
 </h2>
 
 <div style="display: flex;">
