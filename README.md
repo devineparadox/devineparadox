@@ -26,5 +26,7 @@
 
 ### ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ
 
-- [![Telegram](https://img.shields.io/badge/DevineParadox-Telegram-white?style=for-the-badge&logo=telegram)](https://t.me/TheHonoredSoul)
-- [![Gmail](https://img.shields.io/badge/DevineParadox%40gmail.com-Gmail-white?style=for-the-badge&logo=gmail)](mailto:devineparadoxz@gmail.com)
+- [![telegram](https://img.shields.io/badge/DevineParadox-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/TheHonoredSoul)
+- [![gmail](https://img.shields.io/badge/devineparadox@gmail.com-Gmail-red?style=for-the-badge&logo=gmail)](mailto:devineparadoxz@gmail.com)
+
+
