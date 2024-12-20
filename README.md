@@ -10,7 +10,7 @@
     </p>
   </div>
   <div style="flex: 1;">
-    <img src="https://files.catbox.moe/bgg538.jpg" width="200" alt=" ">
+    <img src="https://files.catbox.moe/bgg538.jpg" width="500" alt=" ">
   </div>
 </div>
 
