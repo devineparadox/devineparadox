@@ -16,13 +16,6 @@
 
 <br>
 
-## ɢɪᴛʜᴜʙ ᴍᴇᴛʀɪᴄs
-
-<p align="center">
-  Total vists<br>
-  <img src="https://profile-counter.glitch.me/devineparadox/count.svg" />
-</p>
-
 ### ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
 
 <a href="https://github.com/devineparadox/github-readme-activity-graph">
