@@ -1,5 +1,5 @@
 <h2 align="center">
-    [ 神┊Ꭰᴇᴠᴀɴsʜ ]
+    ──「 神┊Ꭰᴇᴠᴀɴsʜ 」──
 </h2>
 
 <div style="display: flex;">
